@@ -2,7 +2,8 @@
 % Please edit documentation in R/hello.R
 \name{add}
 \alias{add}
-\title{Add together two numbers}
+\title{Add together two numbers test for package
+how about the second line?}
 \usage{
 add(x, y)
 }
@@ -15,9 +16,10 @@ add(x, y)
 A number.
 }
 \description{
-Add together two numbers
+Add together two numbers test for package
+how about the second line?
 }
 \examples{
-add(1, 1)
+add(1, 1) #add comments
 add(10, 1)
 }
